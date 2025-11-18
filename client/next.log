@@ -1,0 +1,134 @@
+nohup: ignoring input
+   ▲ Next.js 16.0.3 (Turbopack)
+   - Local:         http://localhost:3000
+   - Network:       http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 752ms
+ ○ Compiling / ...
+ GET / 200 in 4.0s (compile: 3.8s, render: 191ms)
+ GET / 200 in 56ms (compile: 7ms, render: 50ms)
+ GET /client 404 in 439ms (compile: 369ms, render: 70ms)
+ GET /client 404 in 56ms (compile: 4ms, render: 52ms)
+ GET / 200 in 82ms (compile: 3ms, render: 78ms)
+ GET /chat 200 in 749ms (compile: 662ms, render: 87ms)
+ GET /chat 200 in 104ms (compile: 62ms, render: 42ms)
+ GET /chat 200 in 26ms (compile: 7ms, render: 20ms)
+ GET /chat 200 in 26ms (compile: 6ms, render: 20ms)
+ GET /chat 200 in 33ms (compile: 5ms, render: 28ms)
+ GET /chat 200 in 31ms (compile: 6ms, render: 25ms)
+ GET /chat 200 in 32ms (compile: 5ms, render: 27ms)
+ GET /chat 200 in 28ms (compile: 8ms, render: 20ms)
+ GET /chat 200 in 26ms (compile: 6ms, render: 20ms)
+ GET /chat 200 in 25ms (compile: 4ms, render: 21ms)
+ GET /chat 200 in 35ms (compile: 4ms, render: 31ms)
+ GET /chat 200 in 22ms (compile: 4ms, render: 19ms)
+ GET / 200 in 135ms (compile: 13ms, render: 122ms)
+ ⨯ Error: The default export is not a React Component in "/client/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/client/page"
+    at ignore-listed frames {
+  page: '/client'
+}
+ GET /client 500 in 2.6s (compile: 2.5s, render: 101ms)
+ ⨯ Error: The default export is not a React Component in "/client/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/client/page"
+    at ignore-listed frames {
+  page: '/client'
+}
+ GET /client 500 in 603ms (compile: 593ms, render: 10ms)
+ ⨯ Error: The default export is not a React Component in "/client/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/client/page"
+    at ignore-listed frames {
+  page: '/client'
+}
+ GET /client 500 in 596ms (compile: 585ms, render: 11ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 845ms (compile: 828ms, render: 17ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 544ms (compile: 533ms, render: 11ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 737ms (compile: 726ms, render: 11ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 570ms (compile: 561ms, render: 9ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 666ms (compile: 656ms, render: 10ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 623ms (compile: 612ms, render: 11ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 506ms (compile: 496ms, render: 10ms)
+ ✓ Compiled in 114ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /api/messages 404 in 102ms (compile: 42ms, render: 60ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 683ms (compile: 672ms, render: 11ms)
+ GET /api/messages 404 in 38ms (compile: 1950µs, render: 36ms)
+   Reload env: .env.local
+ GET /chat 200 in 128ms (compile: 78ms, render: 50ms)
+   Reload env: .env.local
+ GET /chat 200 in 850ms (compile: 746ms, render: 104ms)
+ ✓ Compiled in 4ms
+ GET /chat 200 in 22ms (compile: 5ms, render: 16ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 888ms (compile: 866ms, render: 22ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 741ms (compile: 731ms, render: 10ms)
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames
+ ⨯ Error: The default export is not a React Component in "/admin/page"
+    at ignore-listed frames {
+  page: '/admin'
+}
+ GET /admin 500 in 668ms (compile: 656ms, render: 12ms)
